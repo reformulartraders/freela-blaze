@@ -11,11 +11,10 @@ export function SectionTelegram() {
         <section className="sectionTelegram">
             <div className="contentSectionTelegram">
                 <h1 className="titleCustom">Conheça nosso grupo gratuito</h1>
-                <a href="https://t.me/blazeprosinaisfree" target="_blank" className="iconTelegram">
+                <a href="https://t.me/+W6lEF873z5c3Y2Ex" target="_blank" className="iconTelegram">
                     <FaTelegramPlane />
                 </a>
-                <span>CANAL FREE [DOUBLE]</span>
-                <span>Chamar @japadablaze</span>
+                <span>GRUPO FREE</span>
             </div>
             <img src={background} className="imgBg"/>
       </section>
