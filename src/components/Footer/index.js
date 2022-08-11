@@ -9,7 +9,7 @@ export function Footer() {
         <div className="footer">
             <div className="contentFooter">
                 <h1 className="titleCustom">Suporte</h1>
-                <span>@japadablaze</span>
+                <span>@ismaeldab3</span>
                 <img src={logo} alt="logo" />
             </div>
         </div>
