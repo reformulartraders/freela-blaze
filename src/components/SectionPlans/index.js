@@ -19,13 +19,11 @@ export function SectionPlans() {
                         <div className="line"></div>
                         <span>R$ 80,00</span>
                         <div className="line"></div>
-                        <h2>Conheça as vantagens do plano Vitalício.</h2>
+                        <h2>Conheça as vantagens do plano Meta 1.0.</h2>
                         <div className="benefits">
                             <span><BiCheck /> Acesso às aulas</span>
                             <span><BiCheck /> Planilhas de Gerenciamento</span>
-                            <span><BiCheck /> Grupo de Double</span>
-                            <span><BiCheck /> Grupo de Crash</span>
-                            <span><BiCheck /> Chat dos VIPs</span>
+                            <span><BiCheck /> Grupo de Premium</span>
                         </div>
                         <div className="buttonCardPlan">
                             <a href="https://pay.kiwify.com.br/GLgiBhk" target="_blank">
